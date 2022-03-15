@@ -8,14 +8,16 @@ Itt szerkeszthető
 
 https://app.diagrams.net/#G10jgTU8lget4Fcqf5dXsv0LKaci6KSLm5
 
-levente84fodor@gmail.com Fodor Levente
+levente84fodor@gmail.com  Fodor Levente
 
-g.silver.014@gmail.com Gacs Péter
+g.silver.014@gmail.com    Gacs Péter
 
-vargatom84@gmail.com Varga Tamás
+vargatom84@gmail.com      Varga Tamás
 
-biankavirag@gmail.com Ihász Bianka
+biankavirag@gmail.com     Ihász Bianka
 
-kunviktor58@gmail.com Kun Viktor
+kunviktor58@gmail.com     Kun Viktor
 
-nemeth.daniel@ga.sze.hu Németh Dániel
+nagypeterpal@gmail.com    Nagy Péter
+
+nemeth.daniel@ga.sze.hu   Németh Dániel
